@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 $var1 = true;
-$var2 = true;
+$var2 = false;
 $var3 = 'My String';
 
 var_dump(
